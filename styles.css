@@ -1,0 +1,32 @@
+.whole {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgba(66, 39, 202, 0.5);
+    border-radius: 25px;
+    padding: 30px;
+    margin: 200px auto;
+    max-width: 900px;
+    background-image: "images/BACKGROUND-BLUE.jpg";
+}
+.title {
+    margin: 0 auto;
+}
+html {
+    background-image: url("images/BACKGROUND-BLUE.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2, h1, p {
+    margin-left: 10px;
+}
+p {
+    font-weight: 600;
+}
+hr {
+    border-radius: 25px;
+    border-width: 10px;
+    border-style: solid;
+    max-width: 900px;
+    color: rgba(28, 107, 197, 0.591);
+}
